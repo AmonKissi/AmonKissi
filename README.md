@@ -105,7 +105,7 @@
 <br/>
 
 ## Top Open Source -
-[![Build and Run v1.0.1](https://github-readme-stats.vercel.app/api/pin/?username=BuildandRun&repo=BuildandRun-v1.0.1&border_color=2280CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BuildandRun/BuildandRun-v1.0.1)
+[![Build and Run v1.0.1](https://github-readme-stats.vercel.app/api/pin/?username=BuildandRun&repo=BuildandRun-v1.0.1&border_color=2280CE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2280CE)](https://github.com/BuildandRun/BuildandRun-v1.0.1)
 
 
 
