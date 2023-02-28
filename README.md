@@ -126,7 +126,7 @@
 
 <p align="center">
   <a href="https://github.com/AmonKissi">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmonKissi" alt="Amon's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmonKissi&theme=radical" alt="Amon's GitHub Contribution"/>
   </a>
 </p>
 
