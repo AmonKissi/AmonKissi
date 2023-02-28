@@ -101,6 +101,8 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swift](https://img.shields.io/badge/-SWIFT-ff69b4?style=for-the-badge&logo=)
+![Php](https://img.shields.io/badge/-PHP-blueviolet?style=for-the-badge&logo=)
 
 <br/>
 
