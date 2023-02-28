@@ -1,6 +1,6 @@
 <!--
 <a href="https://brstore.us">
-  <img src="https://image.noelshack.com/fichiers/2023/09/2/1677567002-banner-app.jpg" alt="Logo" width="200px" height="auto">
+  <img src="https://image.noelshack.com/fichiers/2023/09/2/1677567002-banner-app.jpg" alt="Logo">
   </a>
 <h2 align="center">
   Welcome to Amon Aka CompuuutaGeek World!
@@ -105,7 +105,9 @@
 <br/>
 
 ## Top Open Source -
-[![Build and Run V2](https://github-readme-stats.vercel.app/api/pin/?username=BuildandRun&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BuildandRun)
+[![Build and Run v1.0.1](https://github-readme-stats.vercel.app/api/pin/?username=BuildandRun&repo=BuildandRun-v1.0.1)](https://github.com/BuildandRun/BuildandRun-v1.0.1)
+
+
 
 
 <p align="left">
