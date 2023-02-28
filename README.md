@@ -120,13 +120,13 @@
 
 <p align="center">
   <a href="https://github.com/AmonKissi">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=amonkissi&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Amon's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AmonKissi&theme=radical&hide_border=true" alt="Amon's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AmonKissi">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmonKissi&theme=github_dark&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Amon's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmonKissi" alt="Amon's GitHub Contribution"/>
   </a>
 </p>
 
