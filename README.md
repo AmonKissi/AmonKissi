@@ -66,7 +66,7 @@
  # About me
  
 <p>
- <img align="right" width="500" src="https://image.noelshack.com/fichiers/2023/09/2/1677573799-amon.png" alt="Coding Monkey" />
+ <img align="right" width="450" src="https://image.noelshack.com/fichiers/2023/09/2/1677573799-amon.png" alt="Coding Monkey" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -79,7 +79,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Known Coding Languages
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
