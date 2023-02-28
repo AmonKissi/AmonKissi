@@ -1,8 +1,8 @@
 <!--
-<h2 align="center">
-  <a href="https://brstore.us">
+<a href="https://brstore.us">
   <img src="https://image.noelshack.com/fichiers/2023/09/2/1677567002-banner-app.jpg" alt="Logo" width="200px" height="auto">
   </a>
+<h2 align="center">
   Welcome to Amon Aka CompuuutaGeek World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
@@ -135,4 +135,3 @@
 </a>
 
 
-![Amon's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=amonkissi&custom_title=Al%20Siam%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
