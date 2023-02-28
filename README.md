@@ -66,7 +66,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc2ZDViYzY0MDUzZGMyZGM0ZjNjYmY3NTM4NTM4ZmFlZDc4MGU0MCZjdD1z/453EUbGc06woD0DBl6/giphy.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://image.noelshack.com/fichiers/2023/09/2/1677573799-amon.png" alt="Coding Monkey" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
