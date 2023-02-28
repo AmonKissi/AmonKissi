@@ -120,7 +120,7 @@
 
 <p align="center">
   <a href="https://github.com/AmonKissi">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AmonKissi&theme=dark&hide_border=true" alt="Amon's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AmonKissi&theme=transparent&hide_border=true" alt="Amon's GitHub streak"/>
   </a>
 </p>
 
