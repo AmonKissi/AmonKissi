@@ -70,7 +70,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: amon@brstore.us<br/><br/>
+ 📧 &emsp; Reach me anytime: amondkissi@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/AmonKissi/AmonKissi/issues)
 
 </p>
